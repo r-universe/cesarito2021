@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/cesarito2021/cesarito2021.r-universe.dev
 	branch = HEAD
+[submodule "alsdownloader"]
+	path = alsdownloader
+	url = https://github.com/Cesarito2021/als_downloader
