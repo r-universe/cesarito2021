@@ -2,7 +2,7 @@
 	path = .registry
 	url = https://github.com/cesarito2021/cesarito2021.r-universe.dev
 	branch = HEAD
-[submodule "alsdownloader"]
-	path = alsdownloader
+[submodule "ALSdownloadeR"]
+	path = ALSdownloadeR
 	url = https://github.com/Cesarito2021/als_downloader
 	branch = main
